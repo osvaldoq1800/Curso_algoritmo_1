@@ -1,0 +1,2 @@
+# Curso_algoritmo_1
+HOLA GENTE DEL DUOC UC PYTHON
